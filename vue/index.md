@@ -14,7 +14,7 @@ This guide provides a uniform way to structure your [Vue.js](http://vuejs.org/) 
 * easier to (re)use build tools you already use.
 * easier to cache and serve bundles of code separately.
 
-This guide is inspired by the [RiotJS Style Guide](https://github.com/voorhoede/riotjs-style-guide) by [De Voorhoede](https://github.com/voorhoede).
+
 
 ## Table of Contents
 
@@ -74,6 +74,7 @@ This guide is inspired by the [RiotJS Style Guide](https://github.com/voorhoede/
   - [Use mixins wherever possible](#use-mixins-wherever-possible)
     - [Why?](#why-15)
     - [How?](#how-14)
+- [Resources](#resources)
 <!-- * [Use `*.vue` extension](#use-vue-extension) -->
 <!-- * [Add badge to your project](#add-badge-to-your-project) -->
 
@@ -717,6 +718,9 @@ To use the mixin, simply import it into both components (I only show the mobile 
 
 ---
 
+#
+# Resources
+ [RiotJS Style Guide](https://github.com/voorhoede/riotjs-style-guide)
 
 <!-- ## Add badge to your project
 

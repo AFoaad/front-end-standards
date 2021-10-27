@@ -1,5 +1,7 @@
-# front-end-standers
-Front end standers
+# front-end-standards
+
+Front end standards
+
 
 #
 # Goals
